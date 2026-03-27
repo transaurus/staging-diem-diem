@@ -1,0 +1,10 @@
+{
+  "sourceUrl": "https://github.com/diem/diem",
+  "branch": "main",
+  "docusaurusRoot": "developers.diem.com",
+  "configFile": "developers.diem.com/docusaurus.config.js",
+  "translateCommand": "./node_modules/.bin/docusaurus write-translations",
+  "buildCommand": "NODE_OPTIONS=--openssl-legacy-provider yarn build",
+  "buildOutput": "build",
+  "packageManager": "yarn"
+}
