@@ -1,0 +1,50 @@
+{
+  "link.item.label.Vision": {
+    "message": "Vision",
+    "description": "The label of footer link with label=Vision linking to https://www.diem.com/vision/"
+  },
+  "link.item.label.About Us": {
+    "message": "About Us",
+    "description": "The label of footer link with label=About Us linking to https://www.diem.com/association/"
+  },
+  "link.item.label.Developers": {
+    "message": "Developers",
+    "description": "The label of footer link with label=Developers linking to https://developers.diem.com/docs/welcome-to-diem/"
+  },
+  "link.item.label.Learn": {
+    "message": "Learn",
+    "description": "The label of footer link with label=Learn linking to https://www.diem.com/learn-faqs/"
+  },
+  "link.item.label.Media": {
+    "message": "Media",
+    "description": "The label of footer link with label=Media linking to https://www.diem.com/media-press-news/"
+  },
+  "link.item.label.White Paper": {
+    "message": "White Paper",
+    "description": "The label of footer link with label=White Paper linking to https://www.diem.com/white-paper/"
+  },
+  "link.item.label.Careers": {
+    "message": "Careers",
+    "description": "The label of footer link with label=Careers linking to https://www.diem.com/careers/"
+  },
+  "link.item.label.Privacy": {
+    "message": "Privacy",
+    "description": "The label of footer link with label=Privacy linking to https://www.diem.com/privacy/"
+  },
+  "link.item.label.Cookies": {
+    "message": "Cookies",
+    "description": "The label of footer link with label=Cookies linking to https://www.diem.com/privacy/#cookies_policy"
+  },
+  "link.item.label.Terms of Use": {
+    "message": "Terms of Use",
+    "description": "The label of footer link with label=Terms of Use linking to https://www.diem.com/privacy/#terms_of_use"
+  },
+  "link.item.label.Code of Conduct": {
+    "message": "Code of Conduct",
+    "description": "The label of footer link with label=Code of Conduct linking to https://developers.diem.com/docs/policies/code-of-conduct"
+  },
+  "copyright": {
+    "message": "©2026 Diem Association",
+    "description": "The footer copyright"
+  }
+}
