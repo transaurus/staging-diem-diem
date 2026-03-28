@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://developers.diem.com/zh-Hans/blog</id>
+    <title>Diem Documentation Blog</title>
+    <updated>2020-03-06T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://developers.diem.com/zh-Hans/blog"/>
+    <subtitle>Diem Documentation Blog</subtitle>
+    <icon>https://developers.diem.com/zh-Hans/img/shared/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How to use the end-to-end tests framework in Move]]></title>
+        <id>How to use the end-to-end tests framework in Move</id>
+        <link href="https://developers.diem.com/zh-Hans/blog/2020/03/06/how-to-use-the-end-to-end-tests-framework-in-move"/>
+        <updated>2020-03-06T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diem Core Roadmap]]></title>
+        <id>Diem Core Roadmap</id>
+        <link href="https://developers.diem.com/zh-Hans/blog/2020/02/28/libra-core-roadmap-3"/>
+        <updated>2020-02-28T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full node basics: an introduction to full nodes in the Diem network]]></title>
+        <id>Full node basics: an introduction to full nodes in the Diem network</id>
+        <link href="https://developers.diem.com/zh-Hans/blog/2020/01/23/full-node-basics"/>
+        <updated>2020-01-23T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steering committee now governs Diem technical development]]></title>
+        <id>Steering committee now governs Diem technical development</id>
+        <link href="https://developers.diem.com/zh-Hans/blog/2020/01/16/steering-committee-now-governs-libra-technical-development"/>
+        <updated>2020-01-16T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reconfiguration support is live on testnet]]></title>
+        <id>Reconfiguration support is live on testnet</id>
+        <link href="https://developers.diem.com/zh-Hans/blog/2020/01/14/reconfiguration-is-live-on-testnet"/>
+        <updated>2020-01-14T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How gas works on the Diem blockchain]]></title>
+        <id>How gas works on the Diem blockchain</id>
+        <link href="https://developers.diem.com/zh-Hans/blog/2020/01/08/how-gas-works-on-libra-blockchain"/>
+        <updated>2020-01-08T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diem Core Roadmap]]></title>
+        <id>Diem Core Roadmap</id>
+        <link href="https://developers.diem.com/zh-Hans/blog/2019/12/17/libra-core-roadmap-2"/>
+        <updated>2019-12-17T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to contribute code to the Diem project: about the CLA process]]></title>
+        <id>How to contribute code to the Diem project: about the CLA process</id>
+        <link href="https://developers.diem.com/zh-Hans/blog/2019/12/10/about-the-cla-process"/>
+        <updated>2019-12-10T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five months and growing strong: the Diem project]]></title>
+        <id>Five months and growing strong: the Diem project</id>
+        <link href="https://developers.diem.com/zh-Hans/blog/2019/11/15/5-months-and-growing-strong"/>
+        <updated>2019-11-15T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Diem Consensus Protocol: Today and Next Steps]]></title>
+        <id>The Diem Consensus Protocol: Today and Next Steps</id>
+        <link href="https://developers.diem.com/zh-Hans/blog/2019/11/09/libra-consensus-protocol"/>
+        <updated>2019-11-09T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Running Diem Validators]]></title>
+        <id>A Guide To Running Diem Validators</id>
+        <link href="https://developers.diem.com/zh-Hans/blog/2019/10/29/a-guide-to-running-libra-validators"/>
+        <updated>2019-10-29T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplifying Diem Transaction Payloads: Deprecation of the "Program" Type]]></title>
+        <id>Simplifying Diem Transaction Payloads: Deprecation of the "Program" Type</id>
+        <link href="https://developers.diem.com/zh-Hans/blog/2019/10/22/simplifying-payloads"/>
+        <updated>2019-10-22T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[September Diem Developer Update - Roadmap]]></title>
+        <id>September Diem Developer Update - Roadmap</id>
+        <link href="https://developers.diem.com/zh-Hans/blog/2019/10/02/libra-developer-update"/>
+        <updated>2019-10-02T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving the DiemBFT protocol]]></title>
+        <id>Improving the DiemBFT protocol</id>
+        <link href="https://developers.diem.com/zh-Hans/blog/2019/09/26/libra-bft-protocol"/>
+        <updated>2019-09-26T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diem Developer Spotlight]]></title>
+        <id>Diem Developer Spotlight</id>
+        <link href="https://developers.diem.com/zh-Hans/blog/2019/09/12/libra-developer-spotlight"/>
+        <updated>2019-09-12T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diem Bug Bounty Open to All]]></title>
+        <id>Diem Bug Bounty Open to All</id>
+        <link href="https://developers.diem.com/zh-Hans/blog/2019/08/14/libra-bug-bounty"/>
+        <updated>2019-08-14T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diem - The Path Forward]]></title>
+        <id>Diem - The Path Forward</id>
+        <link href="https://developers.diem.com/zh-Hans/blog/2019/06/18/the-path-forward"/>
+        <updated>2019-06-18T00:00:00.000Z</updated>
+    </entry>
+</feed>

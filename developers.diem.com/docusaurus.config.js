@@ -4,6 +4,10 @@ const objectAssignDeep = require('object-assign-deep');
 const universalConfig = require('./src/@libra-opensource/diem-docusaurus-components/src/universal-config');
 
 module.exports = objectAssignDeep(universalConfig, {
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en", "zh-Hans"],
+  },
   title: 'Diem Documentation',
   onBrokenLinks: 'ignore',
   tagline: 'The Diem Association’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.',

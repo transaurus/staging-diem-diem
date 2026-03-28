@@ -1,0 +1,54 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.Sidebar.category.Basics": {
+    "message": "Basics",
+    "description": "The label for category Basics in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.category.Transactions": {
+    "message": "Transactions",
+    "description": "The label for category Transactions in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.category.Types of Transactions": {
+    "message": "Types of Transactions",
+    "description": "The label for category Types of Transactions in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.category.Wallets and Merchant Stores": {
+    "message": "Wallets and Merchant Stores",
+    "description": "The label for category Wallets and Merchant Stores in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.category.Diem Reference Wallet": {
+    "message": "Diem Reference Wallet",
+    "description": "The label for category Diem Reference Wallet in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.category.Diem Reference Merchant Store": {
+    "message": "Diem Reference Merchant Store",
+    "description": "The label for category Diem Reference Merchant Store in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.category.Tutorials": {
+    "message": "Tutorials",
+    "description": "The label for category Tutorials in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.category.Tools": {
+    "message": "Tools",
+    "description": "The label for category Tools in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.category.Reference": {
+    "message": "Reference",
+    "description": "The label for category Reference in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.category.Technical Papers": {
+    "message": "Technical Papers",
+    "description": "The label for category Technical Papers in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.category.Policies": {
+    "message": "Policies",
+    "description": "The label for category Policies in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.link.JSON-RPC API": {
+    "message": "JSON-RPC API",
+    "description": "The label for link JSON-RPC API in sidebar Sidebar, linking to https://github.com/diem/diem/blob/main/json-rpc/json-rpc-spec.md"
+  }
+}

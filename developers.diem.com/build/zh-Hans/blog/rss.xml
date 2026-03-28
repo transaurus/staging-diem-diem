@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Diem Documentation Blog</title>
+        <link>https://developers.diem.com/zh-Hans/blog</link>
+        <description>Diem Documentation Blog</description>
+        <lastBuildDate>Fri, 06 Mar 2020 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[How to use the end-to-end tests framework in Move]]></title>
+            <link>https://developers.diem.com/zh-Hans/blog/2020/03/06/how-to-use-the-end-to-end-tests-framework-in-move</link>
+            <guid>How to use the end-to-end tests framework in Move</guid>
+            <pubDate>Fri, 06 Mar 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Diem Core Roadmap]]></title>
+            <link>https://developers.diem.com/zh-Hans/blog/2020/02/28/libra-core-roadmap-3</link>
+            <guid>Diem Core Roadmap</guid>
+            <pubDate>Fri, 28 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Full node basics: an introduction to full nodes in the Diem network]]></title>
+            <link>https://developers.diem.com/zh-Hans/blog/2020/01/23/full-node-basics</link>
+            <guid>Full node basics: an introduction to full nodes in the Diem network</guid>
+            <pubDate>Thu, 23 Jan 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Steering committee now governs Diem technical development]]></title>
+            <link>https://developers.diem.com/zh-Hans/blog/2020/01/16/steering-committee-now-governs-libra-technical-development</link>
+            <guid>Steering committee now governs Diem technical development</guid>
+            <pubDate>Thu, 16 Jan 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reconfiguration support is live on testnet]]></title>
+            <link>https://developers.diem.com/zh-Hans/blog/2020/01/14/reconfiguration-is-live-on-testnet</link>
+            <guid>Reconfiguration support is live on testnet</guid>
+            <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How gas works on the Diem blockchain]]></title>
+            <link>https://developers.diem.com/zh-Hans/blog/2020/01/08/how-gas-works-on-libra-blockchain</link>
+            <guid>How gas works on the Diem blockchain</guid>
+            <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Diem Core Roadmap]]></title>
+            <link>https://developers.diem.com/zh-Hans/blog/2019/12/17/libra-core-roadmap-2</link>
+            <guid>Diem Core Roadmap</guid>
+            <pubDate>Tue, 17 Dec 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to contribute code to the Diem project: about the CLA process]]></title>
+            <link>https://developers.diem.com/zh-Hans/blog/2019/12/10/about-the-cla-process</link>
+            <guid>How to contribute code to the Diem project: about the CLA process</guid>
+            <pubDate>Tue, 10 Dec 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five months and growing strong: the Diem project]]></title>
+            <link>https://developers.diem.com/zh-Hans/blog/2019/11/15/5-months-and-growing-strong</link>
+            <guid>Five months and growing strong: the Diem project</guid>
+            <pubDate>Fri, 15 Nov 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Diem Consensus Protocol: Today and Next Steps]]></title>
+            <link>https://developers.diem.com/zh-Hans/blog/2019/11/09/libra-consensus-protocol</link>
+            <guid>The Diem Consensus Protocol: Today and Next Steps</guid>
+            <pubDate>Sat, 09 Nov 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Guide To Running Diem Validators]]></title>
+            <link>https://developers.diem.com/zh-Hans/blog/2019/10/29/a-guide-to-running-libra-validators</link>
+            <guid>A Guide To Running Diem Validators</guid>
+            <pubDate>Tue, 29 Oct 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simplifying Diem Transaction Payloads: Deprecation of the "Program" Type]]></title>
+            <link>https://developers.diem.com/zh-Hans/blog/2019/10/22/simplifying-payloads</link>
+            <guid>Simplifying Diem Transaction Payloads: Deprecation of the "Program" Type</guid>
+            <pubDate>Tue, 22 Oct 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[September Diem Developer Update - Roadmap]]></title>
+            <link>https://developers.diem.com/zh-Hans/blog/2019/10/02/libra-developer-update</link>
+            <guid>September Diem Developer Update - Roadmap</guid>
+            <pubDate>Wed, 02 Oct 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Improving the DiemBFT protocol]]></title>
+            <link>https://developers.diem.com/zh-Hans/blog/2019/09/26/libra-bft-protocol</link>
+            <guid>Improving the DiemBFT protocol</guid>
+            <pubDate>Thu, 26 Sep 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Diem Developer Spotlight]]></title>
+            <link>https://developers.diem.com/zh-Hans/blog/2019/09/12/libra-developer-spotlight</link>
+            <guid>Diem Developer Spotlight</guid>
+            <pubDate>Thu, 12 Sep 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Diem Bug Bounty Open to All]]></title>
+            <link>https://developers.diem.com/zh-Hans/blog/2019/08/14/libra-bug-bounty</link>
+            <guid>Diem Bug Bounty Open to All</guid>
+            <pubDate>Wed, 14 Aug 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Diem - The Path Forward]]></title>
+            <link>https://developers.diem.com/zh-Hans/blog/2019/06/18/the-path-forward</link>
+            <guid>Diem - The Path Forward</guid>
+            <pubDate>Tue, 18 Jun 2019 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
